@@ -1,0 +1,51 @@
+body {
+    background: #ffe4ff7b
+}
+h5 {
+    text-align: center ;
+    color: rgb(255, 0, 0);
+    font-size: 3rem
+    }
+h4 {
+    text-align: center ;
+    color: rgba(246, 0, 255, 0.32);
+    font-size: 1.75rem
+}
+
+h3 {
+    text-align: center;
+    color: rgba(246, 0, 255, 0.32);
+    font-size:1.25rem
+}
+
+
+
+
+button {
+    display: block;
+    margin: 0 auto;
+    place-items: center;
+    width: 1000px;
+    height: 50px;
+    text-align: center ;
+    color: rgba(11, 0, 255, 0.65);
+    font-size: 2rem;
+    background: rgba(0, 185, 255, 0.23)
+}
+
+a {
+    display: block;
+    margin: 0 auto;
+    place-items: center;
+    width: 1000px;
+    height: 50px;
+    text-align: center ;
+    color: rgba(11, 0, 255, 0.65);
+    font-size: 2rem;
+    background: rgba(0, 185, 255, 0.23)
+}
+
+img {
+    display: block;
+    margin: 0 auto
+}
